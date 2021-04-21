@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ducksoso&show_icons=true">](https://metrics.lecoq.io/ducksoso?template=classic)
+
 I love to talk on trending 🔭
 
 <!--
@@ -16,5 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
 
-![](https://github-readme-stats.vercel.app/api?username=ducksoso)
+✨ 
